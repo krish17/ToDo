@@ -7,7 +7,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for todo#todo_2.11;1.0-SNAPSHOT [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies todo#todo_2.11;1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.7 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.11.7 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@546cbcc7[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@742fbe36[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.7[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.11.7 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m	[2.11.7] org.scala-lang#scala-library;2.11.7[0m
@@ -6625,7 +6625,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.7!scala-compiler.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.12.1!jline.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 8779ms :: artifacts dl 121ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 7101ms :: artifacts dl 129ms[0m
 [0m[[0mdebug[0m] [0m	report for todo#todo_2.11;1.0-SNAPSHOT compile produced in C:\Users\Krishna\ToDo\ToDo\target\resolution-cache\reports\todo-todo_2.11-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for todo#todo_2.11;1.0-SNAPSHOT runtime produced in C:\Users\Krishna\ToDo\ToDo\target\resolution-cache\reports\todo-todo_2.11-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for todo#todo_2.11;1.0-SNAPSHOT test produced in C:\Users\Krishna\ToDo\ToDo\target\resolution-cache\reports\todo-todo_2.11-test.xml[0m
@@ -6639,5 +6639,5 @@
 [0m[[0mdebug[0m] [0m	report for todo#todo_2.11;1.0-SNAPSHOT docs produced in C:\Users\Krishna\ToDo\ToDo\target\resolution-cache\reports\todo-todo_2.11-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for todo#todo_2.11;1.0-SNAPSHOT pom produced in C:\Users\Krishna\ToDo\ToDo\target\resolution-cache\reports\todo-todo_2.11-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for todo#todo_2.11;1.0-SNAPSHOT scala-tool produced in C:\Users\Krishna\ToDo\ToDo\target\resolution-cache\reports\todo-todo_2.11-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (8779ms resolve - 121ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (7101ms resolve - 129ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

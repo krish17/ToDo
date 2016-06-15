@@ -1,2 +1,4 @@
-2016-06-14 19:15:53,312 [INFO] from play.core.server.NettyServer in pool-4-thread-5 - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
-2016-06-14 19:15:57,630 [INFO] from play.core.server.NettyServer in pool-4-thread-5 - Stopping server...
+2016-06-15 11:28:17,564 [INFO] from play.core.server.NettyServer in pool-4-thread-4 - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+2016-06-15 11:29:34,886 [INFO] from application in ForkJoinPool-1-worker-1 - ApplicationTimer demo: Starting application at 2016-06-15T15:29:34.833Z.
+2016-06-15 11:29:35,684 [INFO] from play.api.Play in ForkJoinPool-1-worker-1 - Application started (Dev)
+2016-06-15 11:29:36,506 [INFO] from application in pool-4-thread-4 - ApplicationTimer demo: Stopping application at 2016-06-15T15:29:36.504Z after 2s.
